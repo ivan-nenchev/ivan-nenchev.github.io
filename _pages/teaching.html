@@ -7,6 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Courses</h2>
+<ul>
+  <li>
+    <h3><a href="/course-1">Course 1</a></h3>
+    <p>Description for Course 1</p>
+  </li>
+  <li>
+    <h3><a href="/course-2">Course 2</a></h3>
+    <p>Description for Course 2</p>
+  </li>
+  <li>
+    <h3><a href="/course-3">Course 3</a></h3>
+    <p>Description for Course 3</p>
+  </li>
+</ul>
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+
