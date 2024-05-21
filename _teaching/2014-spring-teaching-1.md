@@ -18,5 +18,8 @@ some course 1
 Heading 2
 ======
 
+Some course 3
+======
+
 Heading 3
 ======
