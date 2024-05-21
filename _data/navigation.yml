@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://ivan-nenchev.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://ivan-nenchev.github.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://ivan-nenchev.github.io/teaching/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
