@@ -22,6 +22,7 @@ author_profile: true
     <p>van Nenchev, Tatjana Scheffler, Marie de la Fuente, Heiner Stuke, Benjamin Wilck, Sandra Anna Just, and Christiane Montag</p>
     <p><em>Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024), pages 41–60, St. Julians, Malta. Association for Computational Linguistics.</em>, 2024</p>
   </li>
+  <li>
     <h3><a href="https://www.mdpi.com/2079-3200/12/3/29">Adding a Piece to the Puzzle? The Allocation of Figurative Language Comprehension into the CHC Model of Cognitive Abilities</a></h3>
     <p>Andra Biesok, Matthias Ziegler, Christiane Montag, and Ivan Nenchev.</p>
     <p><em>Journal of Intelligence 12, no. 3: 29.</em>, 2024</p>
