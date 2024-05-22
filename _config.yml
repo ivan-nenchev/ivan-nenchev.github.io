@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ivan Nenchev"
+  name             : "Ivan Nenchev Иван Ненчев"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "digital clinician scientist, specialist in psychiatry"
   location         : "Berlin, Germany"
   employer         : "Charité Universitätsmedizin Berlin"
   uri              : # URL
