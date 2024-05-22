@@ -22,7 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ivan Nenchev Иван Ненчев"
+  name             : |
+    Ivan Nenchev 
+    Иван Ненчев
   pronouns         : "he/him"  
   bio              : "digital clinician scientist, specialist in psychiatry"
   location         : "Berlin, Germany"
