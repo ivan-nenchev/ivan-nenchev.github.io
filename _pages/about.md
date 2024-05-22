@@ -12,7 +12,7 @@ redirect_from:
 
 About me
 ======
-I am a psychiatrist and psychotherapist at [Charité Universitätsmedizin Berlin](https://psychiatrie-psychotherapie.charite.de/forschung/psychotische_erkrankungen/ag_empathie_und_interpersonelle_prozesse/). Since 2022, I have been participating in the Digital Clinician Scientist Program of the Berlin Institute of Health. I do both clinical work with people suffering from severe mental illness as well as research at the intersection of psychiatry, linguistics, and natural language processing. In my free time, I curate Art Brut exhibitions and row on the lakes around Berlin.
+I am a psychiatrist and psychotherapist at [Charité Universitätsmedizin Berlin](https://psychiatrie-psychotherapie.charite.de/en/research/psychotic_disorders/empathy_and_interpersonal_processes/). Since 2022, I have been participating in the Digital Clinician Scientist Program of the Berlin Institute of Health. I do both clinical work with people suffering from severe mental illness as well as research at the intersection of psychiatry, linguistics, and natural language processing. In my free time, I curate Art Brut exhibitions and row on the lakes around Berlin.
 
 
 Research interests
