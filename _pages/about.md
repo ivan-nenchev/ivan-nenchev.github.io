@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Ivan Nenchev's academic webpage"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
