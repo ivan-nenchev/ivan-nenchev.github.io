@@ -21,13 +21,13 @@ I am a psychiatrist and psychotherapist at [Charité Universitätsmedizin Berlin
 
 Research interests
 ----
-1. Linguistic markers of psychotic episodes
-2. Figurative language comprehansion
-3. Network representations of semantic memory
-4. Linguistics of emojis
-5. Language in psychiatric research
-6. Stigma and mental illness
-7. Participatory research
-8. Open science practicies
+Linguistic markers of psychotic episodes
+Figurative language comprehansion
+Network representations of semantic memory
+Linguistics of emojis
+Language in psychiatric research
+Stigma and mental illness
+Participatory research
+Open science practicies
 
 
