@@ -13,9 +13,9 @@ author_profile: true
 <h2>Selected Publications</h2>
 <ul>
   <li>
-    <h3><a href="https://semanticsarchive.net/Archive/mNiNGE1M/SchefflerNenchev2023-emoji-norms-preprint%20-%20Tatjana%20Scheffler.pdf">Affective, semantic, frequency, and descriptive norms for 107 face emojis</a></h3>
+    <h3><a href="https://link.springer.com/article/10.3758/s13428-024-02444-x">Affective, semantic, frequency, and descriptive norms for 107 face emojis</a></h3>
     <p>Tatjana Scheffler, and <strong>Ivan Nenchev</strong></p>
-    <p><em>Behavior Research Methods</em>, accepted for publication</p>
+    <p><em>Behavior Research Methods</em>, 2024</p>
   </li>
   <li>
     <h3><a href="https://aclanthology.org/2024.clpsych-1.4/">Linguistic markers of schizophrenia: a case study of Robert Walser</a></h3>
