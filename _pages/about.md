@@ -18,6 +18,11 @@ I am a psychiatrist and psychotherapist at [Charité Universitätsmedizin Berlin
 
 <hr>
 
+News 
+====
+
+In the summer semester 2025 I am teaching a research seminar on [Schizophrenia and Mental Images](https://www.berlin-university-alliance.de/commitments/teaching-learning/sturop/research-groups/archiv/sem_aktuell/Schizophrenia-and-Mental-Images/index.html) 
+
 <hr>
 
 Research interests
