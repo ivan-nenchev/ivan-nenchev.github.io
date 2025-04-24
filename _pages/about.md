@@ -24,7 +24,7 @@ News
 In the summer semester 2025 I am teaching a research seminar on [Schizophrenia and Mental Images](https://www.berlin-university-alliance.de/commitments/teaching-learning/sturop/research-groups/archiv/sem_aktuell/Schizophrenia-and-Mental-Images/index.html).
 
 <br>
-Since 2024 I have been leading the [Research group on Language and Natural Language Processing in Psychiatry](https://psychiatrie-psychotherapie.charite.de/en/research/research_group_language_and_natural_language_processing_in_psychiatry).
+Since 2024, I have been leading the [Research Group on Language and Natural Language Processing in Psychiatry](https://psychiatrie-psychotherapie.charite.de/en/research/research_group_language_and_natural_language_processing_in_psychiatry) at Charité – Universitätsmedizin Berlin.
 
 
 <hr>
