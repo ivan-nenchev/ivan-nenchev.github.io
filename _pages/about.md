@@ -26,8 +26,6 @@ I have papers accepted to the ACL Workshop on [NLP for Positive Impact](https://
 
 In the winter semester 2025/26, I am teaching the second edition of research seminar on [Schizophrenia and Mental Images](https://www.berlin-university-alliance.de/commitments/teaching-learning/sturop/research-groups/archiv/sem_aktuell/Schizophrenia-and-Mental-Images/index.html).
 
-<br>
-
 
 <hr>
 
