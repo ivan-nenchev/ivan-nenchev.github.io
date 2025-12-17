@@ -20,7 +20,7 @@ I am a psychiatrist and psychotherapist at [Charité Universitätsmedizin Berlin
 
 News 
 ====
-I have papers accepted to the ACL Workshop on [NLP for Positive Impact](https://sites.google.com/view/nlp4positiveimpact/acl-2025-workshop) and the [RANLP 2025 conference](https://ranlp.org/ranlp2025/). Stay tuned for more details.
+I have papers accepted to the ACL Workshop on [NLP for Positive Impact](https://aclanthology.org/2025.nlp4pi-1.9/), the [RANLP 2025 conference]([https://ranlp.org/ranlp2025/](https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.92.pdf)) and the [Computational Humanities Research 2025]([https://anthology.ach.org/volumes/vol0003/vision-language-models-for-novel-art-therapy-in/]).
 
 <br>
 
