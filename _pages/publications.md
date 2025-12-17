@@ -13,7 +13,7 @@ author_profile: true
 <h2>Selected Publications</h2>
 <ul>
   <li>
-    <h3><a href="[https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.92.pdf](https://doi.org/10.63744/sttzqxdNWsq1)">Vision Language Models for Novel Art Therapy Evaluation in Schizophrenia</a></h3>
+    <h3><a href="https://doi.org/10.63744/sttzqxdNWsq1">Vision Language Models for Novel Art Therapy Evaluation in Schizophrenia</a></h3>
     <p> <strong>Ivan Nenchev</strong>, Karin Dannecker, Maren Rabe , Marie Jeschke,  Christiane Montag</p>
     <p><em>CHR2025 </em>, 2025</p>
   </li>
