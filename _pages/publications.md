@@ -13,6 +13,21 @@ author_profile: true
 <h2>Selected Publications</h2>
 <ul>
   <li>
+    <h3><a href="[https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.92.pdf](https://doi.org/10.63744/sttzqxdNWsq1)">Vision Language Models for Novel Art Therapy Evaluation in Schizophrenia</a></h3>
+    <p> <strong>Ivan Nenchev</strong>, Karin Dannecker, Maren Rabe , Marie Jeschke,  Christiane Montag</p>
+    <p><em>CHR2025 </em>, 2025</p>
+  </li>
+  <li>
+    <h3><a href="https://acl-bg.org/proceedings/2025/RANLP%202025/pdf/2025.ranlp-1.92.pdf">Reverse Prompting: A Novel Computational Paradigm in Schizophrenia Based on Large Language Models</a></h3>
+    <p> <strong>Ivan Nenchev</strong>, Christiane Montag, Sandra Anna Just </p>
+    <p><em>Proceedings of Recent Advances in Natural Language Processing </em>, 2025</p>
+  </li>
+  <li>
+    <h3><a href="https://aclanthology.org/2025.nlp4pi-1.9/">Long-Term Development of Attitudes towards Schizophrenia and Depression in Scientific Abstracts</a></h3>
+    <p> <strong>Ivan Nenchev</strong>, Tatjana Scheffler, Lisa Raithel, Elif Kara, Benjamin Wilck, Maren Rabe, Philip Stötzner, Christiane Montag </p>
+    <p><em>Proceedings of the Fourth Workshop on NLP for Positive Impact (NLP4PI), ACL </em>, 2025</p>
+  </li>
+  <li>
     <h3><a href="https://link.springer.com/article/10.3758/s13428-024-02444-x">Affective, semantic, frequency, and descriptive norms for 107 face emojis</a></h3>
     <p>Tatjana Scheffler, and <strong>Ivan Nenchev</strong></p>
     <p><em>Behavior Research Methods</em>, 2024</p>
